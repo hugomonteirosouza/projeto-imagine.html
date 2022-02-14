@@ -1,6 +1,7 @@
 body{
 
     background-color: black;
+    font-family: 'Roboto', sans-serif;
 
 }
 
@@ -15,4 +16,11 @@ body{
     font-style: italic;
     color: rgb(128, 119, 119);
     text-align: center;
+}
+
+IMG.imagens {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 10%;
 }
